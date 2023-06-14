@@ -1,0 +1,32 @@
+:root {
+  /* Texto */
+  --cor-c0: #ffffff;
+  --cor-c1: #F7F7F7;
+  --cor-c2: #ededed;
+  --cor-c3: #dedede;
+  --cor-c4: #cccccc;
+  --cor-c5: #b2b2b2;
+  --cor-c6: #9c9c9c;
+  --cor-c7: #717171;
+  --cor-c8: #595959;
+  --cor-c9: #404040;
+  --cor-c10: #2e2e2e;
+  --cor-c11: #111111;
+  --cor-c12: #000000;
+
+  --cor-p1: #FFBB00;
+  --cor-p2: #e7a50c;
+  --cor-p3: #a66f00;
+  --cor-p4: #714a03;
+  --cor-p5: #331f01;
+
+  /* Background */
+  --cor-c0-bg: #ffffff;
+  --cor-c12-bg: #000000;
+  --cor-c13-bg-reponsivo: #111111;
+  --cor-c13-bg-menu-hover: #2e2e2e;
+}
+
+.cor-p1 {
+  color: var(--cor-p1);
+}
