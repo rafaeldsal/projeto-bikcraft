@@ -7,12 +7,9 @@
 }
 
 .introducao {
-  max-width: 120rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0 4rem;
-  padding: 0 2rem;
-  margin: 0 auto;
 }
 
 .introducao img {
@@ -35,7 +32,6 @@
   margin-bottom: 2rem;
   color: var(--cor-c4);
 }
-
 
 @media (max-width: 800px) {
   .introducao-bg {
